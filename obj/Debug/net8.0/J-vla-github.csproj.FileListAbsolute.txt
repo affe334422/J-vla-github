@@ -12,3 +12,4 @@ C:\Users\alle07002\OneDrive - Växjö kommun\Skrivbordet\program\J-vla-github\ob
 C:\Users\alle07002\OneDrive - Växjö kommun\Skrivbordet\program\J-vla-github\obj\Debug\net8.0\J-vla-github.pdb
 C:\Users\alle07002\OneDrive - Växjö kommun\Skrivbordet\program\J-vla-github\obj\Debug\net8.0\J-vla-github.genruntimeconfig.cache
 C:\Users\alle07002\OneDrive - Växjö kommun\Skrivbordet\program\J-vla-github\obj\Debug\net8.0\ref\J-vla-github.dll
+C:\Users\alle07002\OneDrive - Växjö kommun\Skrivbordet\program\J-vla-github\obj\Debug\net8.0\J-vla-github.sourcelink.json

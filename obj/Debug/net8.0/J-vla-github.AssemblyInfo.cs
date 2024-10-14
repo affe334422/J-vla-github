@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("J-vla-github")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d18e3d16a796f4dbb73b577606f901ebdefc319")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1cc869dfbc8651e7b24c5f46fc7e6f6f42f8cdf")]
 [assembly: System.Reflection.AssemblyProductAttribute("J-vla-github")]
 [assembly: System.Reflection.AssemblyTitleAttribute("J-vla-github")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
